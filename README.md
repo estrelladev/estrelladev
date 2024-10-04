@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.cruzstart.com](www.cruzstart.com)
 
-- 💬 Ask me about **C++ and Java!**
+- 💬 Ask me about **C++ and JS!**
 
 - 📫 How to reach me **gujo716@gmail.com**
 
