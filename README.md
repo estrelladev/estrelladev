@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, SQL and COBOL.**
 
-- 👨‍💻 All of my projects are available at [www.cruzstart.com](www.cruzstart.com)
+- 👨‍💻 All of my projects are available at [www.cruzstart.com](https://www.cruzstart.com)
 
 - 💬 Ask me about **C++ and JS!**
 
